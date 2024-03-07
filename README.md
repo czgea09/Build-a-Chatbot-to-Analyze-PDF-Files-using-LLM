@@ -1,6 +1,6 @@
 # Build a Chatbot to Analyze PDF Files using LLM
 
-Author : @Sina Nazeri
+Author : @sinanazeri
 
 # Mentee assignment from IBM Advance A.I. @ Infinite Learning Course completion of Build a Chatbot to Analyze PDF Files using LLM from CognitiveClass.ai
 
