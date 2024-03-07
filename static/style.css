@@ -1,12 +1,12 @@
 /* Light mode */
 body {
-  background-color: #d6ddec;
+  background-color: #1e2129;
   color: #121717;
 }
 
 /* Dark mode */
 .dark-mode {
-  background-color: #121717;
+  background-color: #0b8a8a;
   color: #c9c9c9;
 }
 
@@ -170,7 +170,7 @@ body {
 
 .loading-dots.my-loading {
   transform: rotateY(180deg);
-  background-color: #e7f9d8;
+  background-color: #8a8d88;
   float: right;
 }
 
@@ -188,11 +188,11 @@ body {
 }
 
 .dark {
-  background-color: #263443;
+  background-color: #33659b;
 }
 
 .dark-dot {
-  background: #c9c9c9;
+  background: #bd3e3e;
 }
 
 .dot:nth-of-type(1) {
