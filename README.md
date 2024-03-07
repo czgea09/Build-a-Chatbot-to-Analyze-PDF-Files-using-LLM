@@ -18,6 +18,14 @@ Name : Arifian Saputra
 
 - Python
 
+- JavaScript
+ 
+- CSS
+ 
+- HTML
+ 
+- Dockerfile
+
 # Credits
 
 - Parents
